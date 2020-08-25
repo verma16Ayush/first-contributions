@@ -30,11 +30,11 @@
 - [Brenton Doing](https://github.com/brentondoing)
 - [Kaiser Isbell]
 - [Ketan Gupta](https://github.com/ketangupta34)
--[Varsha K.R.](https://github.com/varshakr1298)
+- [Varsha K.R.](https://github.com/varshakr1298)
 - [Waris Anwar👨💻🚀](https://github.com/warisanwar)
-  [Pierce Butler](https://github.com/pbutler1418)
+- [Pierce Butler](https://github.com/pbutler1418)
 - [msabur](https://github.com/msabur)
--[Abhijeet Sharma](https://github.com/abhijeetsharma200)
+- [Abhijeet Sharma](https://github.com/abhijeetsharma200)
 - [jvkiran](https://github.com/jvkiran)
 - [Maria F Ramirez](https://github.com/mfr88)
 - [Pranav Sharma](https://github.com/psx95)
@@ -1936,6 +1936,7 @@
 - [jt120](https://github.com/jt120)
 - [ferminht](https://github.com/ferminhg)
 - [Jakub Kisiel]
+- [Ayush Verma](https://verma16ayush.github.io/portfolioweb)
 - [Rahul Sonanis](https://github.com/RahulSonanis)
 - [Arvind Kalathil](https://github.com/Arvind-Kal/)
 - [Brandon E](https://github.com/ChoppinLumber)
